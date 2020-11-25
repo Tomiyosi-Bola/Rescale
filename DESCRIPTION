@@ -2,10 +2,10 @@ Package: rescale
 Title: rescale a vector
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Tomiyosi",
+           family = "Bola",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "tomiyosishadrackbola@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
